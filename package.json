@@ -1,6 +1,6 @@
 {
-  "name": "@ionic-native/Rkatime",
-  "version": "1.0.0",
+  "name": "Rkatime",
+  "version": "2.0.0",
   "description": "Ionic Native - Native plugins for ionic apps",
   "module": "index.js",
   "typings": "index.d.ts",
@@ -13,6 +13,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ionic-team/ionic-native.git"
+    "url": "https://github.com/rupendraa/ionic-native-Rkatime.git"
   }
 }
