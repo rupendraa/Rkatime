@@ -1,18 +1,45 @@
 {
-  "name": "Rkatime",
-  "version": "2.0.0",
-  "description": "Ionic Native - Native plugins for ionic apps",
-  "module": "index.js",
-  "typings": "index.d.ts",
-  "author": "ionic",
-  "license": "MIT",
-  "peerDependencies": {
-    "@ionic-native/core": "^4.2.0",
-    "@angular/core": "*",
-    "rxjs": "^5.0.1"
+  "_from": "Rkatime",
+  "_id": "Rkatime@2.0.0",
+  "_inBundle": false,
+  "_location": "/Rkatime",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "Rkatime@^1.0.0",
+    "name": "Rkatime",
+    "escapedName": "Rkatime",
+    "scope": "",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
   },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+
+  "_resolved": "git+https://github.com/rupendraa/ionic-native-Rkatime.git",
+  "_spec": "Rkatime@^1.0.0",
+  "_where": "C:\\rupendra\\nwayerp",
+  "author": {
+    "name": "ionic"
+  },
+  "bugs": {
+    "url": "https://github.com/rupendraa/ionic-native-Rkatime/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Ionic Native - Native plugins for ionic apps",
+  "homepage": "https://github.com/ionic-team/ionic-native#readme",
+  "license": "MIT",
+  "module": "index.js",
+  "name": "Rkatime",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rupendraa/ionic-native-Rkatime.git"
-  }
+    "url": "git+https://github.com/ionic-team/ionic-native.git"
+  },
+  "typings": "index.d.ts",
+  "version": "2.0.0"
 }
