@@ -3,6 +3,8 @@
 check android setting autodatetime is on-off enable/disable
 
 ionic cordova plugin add https://github.com/rupendraa/cordova-plugin-rkatime
+
+
 npm i --save --nofetch https://github.com/rupendraa/ionic-native-Rkatime
 
 Add this plugin to your app's module https://ionicframework.com/docs/native/#Add_Plugins_to_Your_App_Module
